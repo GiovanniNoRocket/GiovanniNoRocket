@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Giovanni Palencia
 
-<!--
-**GiovanniNoRocket/GiovanniNoRocket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Disfruto programar. Me encanta crear cosas desde cero, entender cómo funcionan…  
+pero también sé cuándo usar las herramientas adecuadas para avanzar más rápido 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tecnologías y herramientas que uso
+
+### 🚀 Lenguajes y frameworks
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)  
+
+![Dart](https://img.shields.io/badge/Dart-0C74B9.svg?logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)  
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)    
+![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat&logo=openjdk&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
+
+#### 📚 Aprendiendo
+Actualmente estoy explorando nuevas tecnologías para ampliar mi stack y mi comprensión del ecosistema moderno:  
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
+![WebAssembly](https://img.shields.io/badge/-WebAssembly-654FF0?style=flat&logo=webassembly&logoColor=white)
+
+### 🛠️ Otras herramientas
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000)
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
+
+---
+
+---
+
+## 🧠 Sobre mí
+
+- Me gusta entender cómo funcionan las cosas internamente.  
+- Me gusta automatizar, refactorizar y hacer que el código se sienta bien.
+- Usuario de Linux.
+- No me asusta empezar desde cero, pero también sé cuándo no reinventar la rueda.  
+- Trabajo bien en equipo y me gusta compartir lo que aprendo.
+
+---
+
+## 📫 Contacto
+
+- GitHub: [@GiovanniNoRocket](https://github.com/GiovanniNoRocker)
+- Linkedin: [Giovanni Luis Palencia Osorio](https://www.linkedin.com/in/giovanni-luis-palencia-osorio-241943308/)
+
+---
+
+<!-- README generado con estilo 😎 -->
