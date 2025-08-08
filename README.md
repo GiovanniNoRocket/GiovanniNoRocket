@@ -16,8 +16,6 @@ pero también sé cuándo usar las herramientas adecuadas para avanzar más ráp
 ![Dart](https://img.shields.io/badge/Dart-0C74B9.svg?logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)  
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)    
 ![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
 
