@@ -10,7 +10,7 @@ pero también sé cuándo usar las herramientas adecuadas para avanzar más ráp
 - Me gusta entender cómo funcionan las cosas, curioso dice.
 - Me gusta automatizar cosas, refactorizar codigo(por el bien de mi salud mental).
 - No le temo a empezar desde cero, pero también sé cuándo no reinventar la rueda.  
-- Disfruto conversar y entender perspectivas disintas, no me asusta enseñar y aprender.
+- Disfruto conversar y entender perspectivas distintas, no me asusta enseñar y aprender.
 
 ---
 
