@@ -5,6 +5,15 @@ pero también sé cuándo usar las herramientas adecuadas para avanzar más ráp
 
 ---
 
+## 🧠 Sobre mí
+
+- Me gusta entender cómo funcionan las cosas, curioso dice.
+- Me gusta automatizar cosas, refactorizar codigo(por el bien de mi salud mental).
+- No le temo a empezar desde cero, pero también sé cuándo no reinventar la rueda.  
+- Disfruto conversar y entender perspectivas disintas, no me asusta enseñar y aprender.
+
+---
+
 ## 🧰 Tecnologías y herramientas que uso
 
 ### 🚀 Lenguajes y frameworks
@@ -34,18 +43,6 @@ Actualmente estoy explorando nuevas tecnologías para ampliar mi stack y mi comp
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
 ![WebAssembly](https://img.shields.io/badge/-WebAssembly-654FF0?style=flat&logo=webassembly&logoColor=white)
-
----
-
----
-
-## 🧠 Sobre mí
-
-- Me gusta entender cómo funcionan las cosas internamente.  
-- Me gusta automatizar, refactorizar y hacer que el código se sienta bien.
-- Usuario de Linux.
-- No me asusta empezar desde cero, pero también sé cuándo no reinventar la rueda.  
-- Trabajo bien en equipo y me gusta compartir lo que aprendo.
 
 ---
 
