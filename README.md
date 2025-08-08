@@ -53,4 +53,6 @@ Actualmente estoy explorando nuevas tecnologías para ampliar mi stack y mi comp
 
 ---
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tian2803&layout=compact&theme=cobalt2&hide_border=true)
+
 <!-- README generado con estilo 😎 -->
