@@ -38,12 +38,6 @@ pero también sé cuándo usar las herramientas adecuadas para avanzar más ráp
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000)
 ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
 
-#### 📚 Aprendiendo
-Actualmente estoy explorando nuevas tecnologías para ampliar mi stack y mi comprensión del ecosistema moderno:  
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
-![WebAssembly](https://img.shields.io/badge/-WebAssembly-654FF0?style=flat&logo=webassembly&logoColor=white)
-
 ---
 
 ## 📫 Contacto
@@ -54,5 +48,3 @@ Actualmente estoy explorando nuevas tecnologías para ampliar mi stack y mi comp
 ---
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniNoRocket&layout=compact&theme=cobalt2&hide_border=true)
-
-<!-- README generado con estilo 😎 -->
